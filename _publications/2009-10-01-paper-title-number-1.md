@@ -2,12 +2,8 @@
 title: "Improving Data Locality of Tasks by Executor Allocation in Spark Computing Environment"
 collection: publications
 category: manuscripts
-#permalink: /publication/2009-10-01-paper-title-number-1
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024
 venue: 'IEEE Transactions on Cloud Computing'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Zhongming Fu, Mengsi He, Yang Yi, and Zhuo Tang, “Improving Data Locality of Tasks by Executor Allocation in Spark Computing Environment,” in IEEE Transactions on Cloud Computing, vol. 12, no. 3, pp. 876-888. 2024.'
 ---
 
